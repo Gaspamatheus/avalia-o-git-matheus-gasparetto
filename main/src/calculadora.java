@@ -7,6 +7,6 @@ public class calculadora {
         int multi = (a * b);
 
         System.out.println(" A soma é: " + soma);
-        System.out.println(" A multiplicação é: ");
+        System.out.println(" A multiplicação é: " + multi);
     }
 }
